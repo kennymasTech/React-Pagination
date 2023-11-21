@@ -1,7 +1,7 @@
 
 import { getPostsPage } from './api/axios';
 import { useState, useEffect } from 'react';
-import Post from './Post'
+import Post from './Post';
 
 const Example1 = () => {
     const [page, setPage] = useState(1)
