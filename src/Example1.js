@@ -28,5 +28,5 @@ const Example1 = () => {
             {content}
         </>
     )
-}
+};
 export default Example1
