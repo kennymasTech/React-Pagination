@@ -6,5 +6,5 @@ const Post = ({ post }) => {
             <p>Post ID: {post.id}</p>
         </article>
     )
-}
+};
 export default Post
