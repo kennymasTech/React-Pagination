@@ -1,3 +1,4 @@
+
 import { getPostsPage } from './api/axios'
 import { useState, useEffect } from 'react'
 import Post from './Post'
