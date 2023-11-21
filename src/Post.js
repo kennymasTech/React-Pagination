@@ -1,3 +1,4 @@
+
 const Post = ({ post }) => {
     return (
         <article>
